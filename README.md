@@ -1,6 +1,5 @@
 # KSA and Print Media
 
-
 ![Inline docs](https://img.shields.io/github/license/AlbogamiSultan/ksa-and-print-media?color=maroon)
 ![Inline docs](https://img.shields.io/github/contributors/AlbogamiSultan/ksa-and-print-media)
 ![Inline docs](https://img.shields.io/github/last-commit/AlbogamiSultan/ksa-and-print-media)
